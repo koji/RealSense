@@ -2,7 +2,10 @@
 ## RealSense App
 
 ### openFrameworks
-https://github.com/koji/RealSenseExp/tree/master/ofScanner     
+https://github.com/koji/RealSenseExp/tree/master/ofScanner  
+setup   
+https://github.com/koji/RealSenseExp/blob/master/oF_setup.me   
+    
 What this app covers  
 1. point cloud
 2. depth viewer
